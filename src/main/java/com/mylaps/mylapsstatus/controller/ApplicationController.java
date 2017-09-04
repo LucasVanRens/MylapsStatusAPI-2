@@ -33,8 +33,6 @@ public class ApplicationController {
     private final MaintenanceService maintenanceService;
     private final SystemService systemService;
 
-    private final int test = 10;
-
     public ApplicationController(final MaintenanceService maintenanceService, final SystemService systemService) {
         this.maintenanceService = maintenanceService;
         this.systemService = systemService;
