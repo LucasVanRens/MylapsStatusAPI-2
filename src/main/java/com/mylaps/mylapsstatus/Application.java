@@ -12,3 +12,4 @@ public class Application {
 }
 
 /* Test if this comment can be committed */
+/* Another test */
