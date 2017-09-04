@@ -1,0 +1,21 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-mapping>
+    <class name = "Systems" table = "systems">
+        <id name = "systemId" type="int" column = "id">
+            <generator class = "native"/>
+        </id>
+        <property name="systemName" type="String" column="NAME"/>
+        <property name="systemStatus" type="String" column="STATUS"/>
+    </class>
+    <class name = "Maintenance" table = "MAINTENANCE">
+        <id name = "maintenanceId" type="int" column = "ID">
+            <generator class = "native"/>
+        </id>
+        <property name="systemId" type="int" column="system_id"/>
+        <property name="dateBeginM" type="Date" column="start_date"/>
+        <property name="dateEndM" type="Date" column="end_date"/>
+    </class>
+</hibernate-mapping>-->
+
+<!--I believe this entire piece of code is not used, though I won't delete it cause it might be necessary.-->
