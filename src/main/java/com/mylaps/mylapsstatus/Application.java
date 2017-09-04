@@ -10,3 +10,5 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
 }
+
+/* Test if this comment can be committed */
