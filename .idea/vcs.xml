@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="C:\Development\Netbeans\Programs\MylapsStatusAPI\HelloWorld" vcs="Git" />
     <mapping directory="C:\Development\Netbeans\Programs\MylapsStatusAPI\MylapsStatusAPI" vcs="Git" />
+    <mapping directory="C:\Development\Netbeans\Programs\MylapsStatusAPI\MylapsStatusAPI-2" vcs="Git" />
   </component>
 </project>
